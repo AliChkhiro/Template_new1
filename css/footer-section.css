@@ -21,7 +21,7 @@
   background: var(--mainColor);
   color: var(--whiteColor);
   margin: 0 5px;
-  border-radius: 50%;
+  border-radius: 10px;
 }
 
 .footer-links li a i {
